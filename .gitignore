@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Data JSON (exclude real data)
+data/courses.json
+data/users.json
+data/academic_records.json
+data/registration_periods.json
